@@ -1,1 +1,1 @@
-# WowMetaNft
+WoW is a tower defense meta-universe with the theme of Play to earn. It adds the model and story elements of "WoW", supports PVE and PVP player battles, and adds a rune bonus system and a guild reward system. Players can obtain heroes with different levels of attributes in the game. Players can also upgrade runes to improve their ability to pass levels. After completing the levels, they can obtain corresponding token rewards.
