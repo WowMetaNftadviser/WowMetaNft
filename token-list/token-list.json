@@ -1,0 +1,24 @@
+{
+  "name": "WoW",
+  "logoURI": "https://raw.githubusercontent.com/WowMetaNftadviser/WowMetaNft/main/WoW-logo/64x64-WoW-logo.png",
+  "keywords": [
+      "wow",
+      "defi"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x4eaf5492838F34AAf6a5E1c603872DA94BAeDc7d",
+      "name": "WoW-Token",
+      "symbol": "wow",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WowMetaNftadviser/WowMetaNft/main/WoW-logo/64x64-WoW-logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
